@@ -40,39 +40,39 @@ html {
 }
 
 .square-1 { 
-	width: 200px; 
-	height: 200px; 
+	width: 400px; 
+	height: 400px; 
 	background: #17afa0; 
 }
 
 .square-2 { 
-	width: 200px; 
-	height: 200px; 
+	width: 400px; 
+	height: 400px; 
 	background: #269b8d; 
 }
 
 .square-3 { 
-	width: 200px; 
-	height: 200px; 
+	width: 400px; 
+	height: 400px; 
 	background: #288c7d; 
 }
 
-.square-1 { 
-	width: 200px; 
-	height: 200px; 
-	background: red; 
-}
-
 .square-4 { 
-	width: 200px; 
-	height: 200px; 
-	background: red; 
+	width: 400px; 
+	height: 400px; 
+	background: #267a6c; 
 }
 
 .square-5 { 
-	width: 200px; 
-	height: 200px; 
-	background: red; 
+	width: 400px; 
+	height: 400px; 
+	background: #25665a; 
+}
+
+.square-6 { 
+	width: 400px; 
+	height: 400px; 
+	background: #24564d; 
 }
 
 
