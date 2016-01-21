@@ -17,19 +17,17 @@ html {
 	box-sizing: inherit;
 }
 
-.btn {
+.btn-1 {
 	color: #fff;
+	font-size: 15em;
+	padding-top: 15px;
 }
 
-.btn:hover,
-.btn:active,
-.btn:focus {
-	background-color:#aaa;
-}
-
-.btn i{
-	vertical-align: middle;
-	padding-right: 1em;
+.btn-1:hover,
+.btn-1:active,
+.btn-1:focus {
+	background-color:#fff;
+	color: #17afa0;
 }
 
 .square-1 { 
